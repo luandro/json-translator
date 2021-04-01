@@ -1,0 +1,22 @@
+{
+  "name": "json-translator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node .",
+    "lint": "prettier --write index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vitalets/google-translate-api": "^5.1.0",
+    "chalk": "^4.1.0",
+    "clone": "^2.1.2"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}

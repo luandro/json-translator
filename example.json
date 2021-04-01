@@ -1,0 +1,37 @@
+{
+  "language": "English",
+  "pages": {
+    "channel": "Channel",
+    "channels": "Channels",
+    "groups": "Groups",
+    "connections": "Connections",
+    "notifications": "Notifications",
+    "private": "Private",
+    "profile": "Profile",
+    "public": "Public",
+    "settings": "Settings",
+    "thread": "Thread",
+    "threads": "Threads"
+  },
+  "common": {
+    "refreshMessages": "Refresh messages",
+    "lastXMessages": "Last {count} messages",
+    "lastXThreads": "Last {count} threads",
+    "searchingForMessages": "(Searching for messages...)",
+    "noMessages": "(No messages to display)",
+    "showingMessagesFrom": "Showing messages from",
+    "loadXMore": "Load {count} more",
+    "postTooLarge": "Your post is too large.  Each post can only be 8KiB.  Please shorten your post or split it into multiple posts.",
+    "unableToFindProfile": "We couldn't find anyone with that name, but we'll try to find them on the network.",
+    "selfPronoun": "You",
+    "messageOutsideGraph": "Message outside follow graph",
+    "unknownMessage": "Unknown message type or message outside follow graph",
+    "genericUsername": "User",
+    "profileUpdateSelf": "{user} updated their profile",
+    "profileUpdateOther": "{user} posted a profile update for someone else's profile",
+    "startedFollowing": "Started following",
+    "stoppedFollowing": "Stopped following",
+    "close": "Close",
+    "save": "Save"
+  }
+}
